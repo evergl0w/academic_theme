@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: '#posts' # url: '#about'
+    url: '#posts'
     weight: 10
   - name: News
     url: '#posts'
@@ -17,7 +17,7 @@ main:
   #   url: '#talks'
   #   weight: 40
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 50
   # - name: Contact
   #   url: '#contact'

@@ -1,7 +1,7 @@
 ---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featured
+widget: publications
 
 # This file represents a page section.
 headless: true
@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
+title: Publications
 subtitle: ""
 
 content:
@@ -44,8 +44,3 @@ design:
 | [Volume 28 / S. Balandin, V. Deart, T. Tuytina, Proceedings of the 28th Conference of Open Innovations Association FRUCT, Moscow, Russia. ISSN 2305-7254, FRUCT Oy, e-ISSN 2343-0737 (license CC BY-ND)](https://fruct.org/node/384281)                                | [Open](https://fruct.org/publications/fruct28/)        | [Open](https://fruct.org/publications/acm28/)        | [Open](https://fruct.org/program28)        |   |   |   |   |   |   |
 | [Volume 27 / S. Balandin, L. Turchet, T. Tuytina, Proceedings of the 27th Conference of Open Innovations Association FRUCT, Trento, Italy. ISSN 2305-7254, FRUCT Oy, e-ISSN 2343-0737 (license CC BY-ND)](https://fruct.org/node/383597)                               | [Open](https://fruct.org/publications/fruct27/)        | [Open](https://fruct.org/publications/acm27/)        | [Open](https://fruct.org/program27)        |   |   |   |   |   |   |
 | [Volume 26 / S. Balandin, I. Paramonov, T. Tuytina, Proceedings of the 26th Conference of Open Innovations Association FRUCT, Helsinki, Finland. ISSN 2305-7254, ISBN 978-952-69244-2-7, FRUCT Oy, e-ISSN 2343-0737 (license CC BY-ND)](https://fruct.org/node/382258) | [Open](https://fruct.org/publications/fruct26/)        | [Open](https://fruct.org/publications/acm26/)        | [Open](https://fruct.org/program26)        |   |   |   |   |   |   |
-|                                                                                                                                                                                                                                       |             |             |             |   |   |   |   |   |   |
-|                                                                                                                                                                                                                                       |             |             |             |   |   |   |   |   |   |
-|                                                                                                                                                                                                                                       |             |             |             |   |   |   |   |   |   |
-|                                                                                                                                                                                                                                       |             |             |             |   |   |   |   |   |   |
-
