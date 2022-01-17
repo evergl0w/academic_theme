@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Mobile Linux, OSS and Maemo/MeeGo Systems
+    tag: Mobile Linux, OSS and Maemo/MeeGo Systems
   - name: Other
     tag: Demo
 
